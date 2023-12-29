@@ -1,3 +1,6 @@
 new filed added main branch from local [changes made here for feature3]
 new line added from remote
 feature 3 added here
+
+added new code 
+added one more new code
