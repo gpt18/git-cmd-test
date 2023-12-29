@@ -1,2 +1,3 @@
-new filed added to main branch from local repository
+new filed added main branch from local [changes made here for feature3]
 new line added from remote
+feature 3 added here
